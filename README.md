@@ -1,1 +1,1 @@
-# -Castle-dungeons---An-interactive-fiction-game-in-Python.-
+# Castle-dungeons-An-interactive-fiction-game-in-Python.-
